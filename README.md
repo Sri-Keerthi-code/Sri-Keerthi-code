@@ -2,7 +2,7 @@
 
 🎓 Engineering Student
 
-💻 Learning AI, Python and Web Development
+💻 Learning about Product management ,AI, Python and Web Development
 
 📊 Interested in Data Analytics and AI
 
@@ -12,7 +12,7 @@
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,git,github,vscode,sql" />
 </p>
 ## 📊 GitHub Stats
 
