@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_LINK_HERE" alt="Keerthi Banner" width="100%">
+  <img src="banner.png" alt="Keerthi Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Keerthi</h1>
