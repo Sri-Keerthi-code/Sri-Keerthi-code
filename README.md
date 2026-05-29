@@ -1,25 +1,45 @@
-# Hi 👋, I'm Keerthi
+<h1 align="center">Hi 👋, I'm Keerthi</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Engineering+Student;Future+Product+Manager;AI+and+Data+Analytics+Enthusiast;Learning+Something+New+Every+Day+🚀" alt="Typing SVG" />
+</p>
+
+---
+
+## 🌟 About Me
 
 🎓 Engineering Student
 
-💻 Learning about Product management ,AI, Python and Web Development
+💡 Exploring Product Management, AI, Data Analytics & Web Development
 
-📊 Interested in Data Analytics and AI
-
-🚀 Building projects and improving every day
+🚀 Building projects and learning every day
 
 📍 India
+
+---
+
 ## 🚀 Tech Stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,git,github,vscode,mysql" />
 </p>
-## 📊 GitHub Stats
 
-![Keerthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sri-Keerthi-code&show_icons=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sri-Keerthi-code&layout=compact)
-## 🔥 GitHub Streak
+## 📈 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Sri-Keerthi-code)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sri-Keerthi-code" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+---
+
 ![](https://komarev.com/ghpvc/?username=Sri-Keerthi-code)
