@@ -1,45 +1,95 @@
+<p align="center">
+  <img src="YOUR_BANNER_LINK_HERE" alt="Keerthi Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Keerthi</h1>
 
+<h3 align="center">
+Aspiring Product Manager | AI & Data Analytics Enthusiast | QA Testing Learner
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Engineering+Student;Future+Product+Manager;AI+and+Data+Analytics+Enthusiast;Learning+Something+New+Every+Day+🚀" alt="Typing SVG" />
+Passionate about building impactful products, understanding user needs,
+and leveraging technology to solve real-world problems.
+</p>
+
+<p align="center">
+  📍 India • 🎓 Engineering Student • 🚀 Lifelong Learner
 </p>
 
 ---
 
-## 🌟 About Me
+## 👩‍💻 About Me
 
-🎓 Engineering Student
-
-💡 Exploring Product Management, AI, Data Analytics & Web Development
-
-🚀 Building projects and learning every day
-
-📍 India
-
----
-
-## 🚀 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,git,github,vscode,mysql" />
-</p>
+- 🎓 Engineering Student
+- 💡 Interested in Product Management, AI, Data Analytics & QA Testing
+- 📊 Exploring data-driven decision making and user-centric product design
+- 🚀 Building projects and continuously improving my skills
+- 🌱 Currently learning SQL, Product Management, AI and Analytics
+- 🤝 Open to collaboration on innovative projects
 
 ---
 
-## 📈 GitHub Activity
+## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sri-Keerthi-code" />
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode" />
 </p>
+
+### Currently Learning
+
+- Product Management
+- Artificial Intelligence
+- Data Analytics
+- SQL
+- QA Testing
+- Web Development
+
+
+---
+
+## 🎯 Current Goals
+
+- Build a strong Product Management foundation
+- Strengthen SQL and Data Analytics skills
+- Develop impactful AI projects
+- Improve QA Testing knowledge
+- Create a professional project portfolio
+- Prepare for placements and industry opportunities
+
+---
+
+## 🏆 What I'm Focusing On
+
+- Product Thinking
+- Problem Solving
+- User Experience
+- Data-Driven Decision Making
+- Quality Assurance
+- Continuous Learning
 
 ---
 
 ## 🌐 Connect With Me
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<p align="left">
+<a href="https://www.linkedin.com/in/bhuvana-sri-keerthi-maringanti-263957297/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
+</p>
+
+📧 Email: bhuvanakeerthimaringanti@gmail.com
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Sri-Keerthi-code)
+## 📈 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sri-Keerthi-code&label=Profile+Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center">
+  <i>Learning. Building. Iterating. Growing.</i>
+</p>
