@@ -1,4 +1,3 @@
-```html
 <p align="center">
   <img src="banner.png" alt="Keerthi Banner" width="100%">
 </p>
@@ -6,83 +5,67 @@
 <h1 align="center">Hi 👋, I'm Keerthi</h1>
 
 <h3 align="center">
-Software Development | Data Analytics | Artificial Intelligence
+Aspiring Product Manager | AI & Data Analytics Enthusiast | QA Testing Learner
 </h3>
 
 <p align="center">
-Building practical solutions through code, data, and intelligent technologies.
-Interested in solving complex problems, uncovering meaningful insights,
-and developing reliable, user-focused applications.
+Passionate about building impactful products, understanding user needs,
+and leveraging technology to solve real-world problems.
 </p>
 
 <p align="center">
-📍 India • 🎓 Engineering Student • 💻 Technology & Innovation
+📍 India • 🎓 Engineering Student • 🚀 Lifelong Learner
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 Engineering student with an interest in software and data-driven solutions
-- 💻 Exploring software development, application design, and problem-solving
-- 📊 Working with data to identify patterns, generate insights, and support decisions
-- 🤖 Exploring AI-powered applications and Generative AI technologies
-- 🛠️ Building projects that combine technical implementation with practical use cases
-- 🤝 Open to collaborating on software, analytics, and AI-driven projects
+- 🎓 Engineering Student
+- 💡 Interested in Product Management, AI, Data Analytics & QA Testing
+- 📊 Exploring data-driven decision making and user-centric product design
+- 🚀 Building projects and continuously improving my skills
+- 🌱 Currently learning SQL, Product Management, AI and Analytics
+- 🤝 Open to collaboration on innovative projects
 
 ---
 
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,git,github,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,vscode" alt="Skills and Technologies">
 </p>
 
-### Programming & Development
-- Python
-- Java (Basics)
-- HTML, CSS & JavaScript (Basics)
-- API Integration
-- Git & GitHub
+### Currently Learning
 
-### Data & Analytics
-- SQL & Database Fundamentals
-- Data Analysis & Interpretation
-- Data-Driven Problem Solving
-- Analytical Thinking
-
-### AI & Emerging Technologies
-- Generative AI & LLM Fundamentals
-- Prompt Engineering
-- AI API Integration
-- Conversational AI Applications
-
-### Tools & Platforms
-- VS Code
-- GitHub
-- Streamlit
-- Supabase (Basics)
+- Product Management
+- Artificial Intelligence
+- Data Analytics
+- SQL
+- QA Testing
+- Web Development
 
 ---
 
-## 🚀 Projects & Practical Work
+## 🎯 Current Goals
 
-- 🤖 **AI-Powered Applications** — Exploring intelligent applications using AI models and APIs
-- 📊 **Data-Driven Solutions** — Applying analytical thinking to understand problems and extract insights
-- 💻 **Software Projects** — Developing applications with a focus on functionality, usability, and problem-solving
-- 🔍 **Continuous Improvement** — Refining projects through experimentation, debugging, and iteration
+- Build a strong Product Management foundation
+- Strengthen SQL and Data Analytics skills
+- Develop impactful AI projects
+- Improve QA Testing knowledge
+- Create a professional project portfolio
+- Prepare for placements and industry opportunities
 
 ---
 
-## 🎯 Areas of Focus
+## 🏆 What I'm Focusing On
 
-- Software Development & Engineering Principles
-- Data Analytics & SQL
-- Problem Solving & Logical Thinking
-- Artificial Intelligence & Generative AI
-- Application Development & API Integration
+- Product Thinking
+- Problem Solving
+- User Experience
 - Data-Driven Decision Making
-- Code Quality, Testing & Debugging
+- Quality Assurance
+- Continuous Learning
 
 ---
 
@@ -107,6 +90,5 @@ and developing reliable, user-focused applications.
 ---
 
 <p align="center">
-  <i>Think critically. Build thoughtfully. Learn continuously.</i>
+  <i>Learning. Building. Iterating. Growing.</i>
 </p>
-```
